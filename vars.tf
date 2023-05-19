@@ -1,0 +1,2 @@
+variable sshkey {}
+variable token {}
